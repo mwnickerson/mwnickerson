@@ -1,5 +1,5 @@
 - Hi, I’m Matthew Nickerson
-- I am a Sr. Security Consultant at [Layer 8 Security](https://www.layer8security.com)
+- I am an Adversary Simulation Consultant
 - I am a former marketing and project manager beginning my career in cyber security.
 - I’m currently working on my pentesting skills as well as offensive tooling development
 - I’m looking to collaborate on offensive tools involving python, nim, zig, or c/c++
